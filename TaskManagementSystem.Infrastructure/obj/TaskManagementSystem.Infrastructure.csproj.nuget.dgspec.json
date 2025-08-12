@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mystique\\Desktop\\TaskManagementSystem\\TaskManagementSystem.Infrastructure\\TaskManagementSystem.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mystique\\Desktop\\TaskManagementSystem\\TaskManagementSystem.Domain\\TaskManagementSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mystique\\Desktop\\TaskManagementSystem\\TaskManagementSystem.Domain\\TaskManagementSystem.Domain.csproj",
+        "projectName": "TaskManagementSystem.Domain",
+        "projectPath": "C:\\Users\\Mystique\\Desktop\\TaskManagementSystem\\TaskManagementSystem.Domain\\TaskManagementSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\Mystique\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mystique\\Desktop\\TaskManagementSystem\\TaskManagementSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mystique\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "System.Threading.Tasks.Extensions": {
+              "target": "Package",
+              "version": "[4.5.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mystique\\Desktop\\TaskManagementSystem\\TaskManagementSystem.Infrastructure\\TaskManagementSystem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mystique\\Desktop\\TaskManagementSystem\\TaskManagementSystem.Infrastructure\\TaskManagementSystem.Infrastructure.csproj",
+        "projectName": "TaskManagementSystem.Infrastructure",
+        "projectPath": "C:\\Users\\Mystique\\Desktop\\TaskManagementSystem\\TaskManagementSystem.Infrastructure\\TaskManagementSystem.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Mystique\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mystique\\Desktop\\TaskManagementSystem\\TaskManagementSystem.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mystique\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\Mystique\\Desktop\\TaskManagementSystem\\TaskManagementSystem.Domain\\TaskManagementSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\Mystique\\Desktop\\TaskManagementSystem\\TaskManagementSystem.Domain\\TaskManagementSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

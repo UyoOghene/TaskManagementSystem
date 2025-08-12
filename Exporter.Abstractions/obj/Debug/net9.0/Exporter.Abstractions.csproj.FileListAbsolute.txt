@@ -1,0 +1,15 @@
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\bin\Debug\net9.0\Exporter.Abstractions.deps.json
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\bin\Debug\net9.0\Exporter.Abstractions.dll
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\bin\Debug\net9.0\Exporter.Abstractions.pdb
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\bin\Debug\net9.0\TaskManagementSystem.Domain.dll
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\bin\Debug\net9.0\TaskManagementSystem.Domain.pdb
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\obj\Debug\net9.0\Exporter.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\obj\Debug\net9.0\Exporter.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\obj\Debug\net9.0\Exporter.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\obj\Debug\net9.0\Exporter.Abstractions.AssemblyInfo.cs
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\obj\Debug\net9.0\Exporter.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\obj\Debug\net9.0\Exporter.51BB5854.Up2Date
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\obj\Debug\net9.0\Exporter.Abstractions.dll
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\obj\Debug\net9.0\refint\Exporter.Abstractions.dll
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\obj\Debug\net9.0\Exporter.Abstractions.pdb
+C:\Users\Mystique\Desktop\TaskManagementSystem\Exporter.Abstractions\obj\Debug\net9.0\ref\Exporter.Abstractions.dll
